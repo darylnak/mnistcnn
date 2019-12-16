@@ -1,3 +1,3 @@
-# CNN For MNIST Dataset
+## What is this?
 
-Note that the MNIST dataset is not included. If you would like to use this model, you must download the MNIST dataset and format it to fit this program.
+This project aims to compare the performance between a feedforward neural network and two variations of a convolutional neural network, all with fully connected layers.
